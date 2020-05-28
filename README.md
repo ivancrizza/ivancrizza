@@ -2,11 +2,8 @@
 
 my name is Ivan and I'm an Android developer 🤓 [@brq](https://twitter.com/brqdigital)  working at [Itaú](https://twitter.com/itau), precisely one of the most beautiful and [lightest](https://play.google.com/store/apps/details?id=com.itau.applight&hl=en) projects I've ever worked.👇
 
-<html>
-   <body>
-      <img src="https://lh3.googleusercontent.com/sINBA1UTKNWtNDCQkpDoNbKcxe2iA1ayVF52D-faRmGjap_wOtvPx-uqaXmhZ4jvbNbF"  width="128" height="128">
-   </body>
-</html>
+>>><a href="https://twitter.com/itau/status/1263507449723654145"><img width="400px" alt="Click to @ me" src="https://user-images.githubusercontent.com/48035639/83184195-78ae1280-a0ff-11ea-83cd-3289ee2aca1e.png"></a>
+
 
 It's been a great journey so far 👨‍💻
 
