@@ -7,7 +7,7 @@ my name is Ivan and I'm an Android developer 🤓 [@brq](https://twitter.com/brq
 
 It's been a great journey so far 👨‍💻
 
-Not going to lie though, I'm very rookie in terms of programming - I've complete 2 years of experince - but this craftsmanship it's amazing 💕
+Not going to lie though, I'm very rookie in terms of programming - I'll complete 2 years of experince - but this craftsmanship it's amazing 💕
 
 I'm also working on a podcast with a few friends about android development here in Brazil 🌅🏖🏳‍🌈
 
