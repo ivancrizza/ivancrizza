@@ -1,15 +1,26 @@
+# Ivan Crizza
 
-Hi, my name Ivan Crizza 👨‍💻
+Desenvolvedor Android em São Paulo, construindo produtos do app ao site, e entusiasta de música.
 
-I'm a Android Developer and music enthusiast. 
+[LinkedIn](https://www.linkedin.com/in/ivan-alineri/) · [E-mail](mailto:ivancrizza@gmail.com)
 
-## ⚡ Skills:
+## Últimos 12 meses
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+| 556 | 327 | 221 | 7 |
+|:---:|:---:|:---:|:---:|
+| contribuições | commits | PRs com merge | repositórios novos |
 
-## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-alineri/) 
+A maior parte desse trabalho está em repositórios privados: 325 dos 327 commits.
+Em outubro de 2026 foram 96 PRs abertos, o mês mais intenso do período.
 
- or give some ♥ on [mail](mailto:ivancrizza@gmail.com) .
+<sub>Dados da API do GitHub, de 01/11/2025 a 01/11/2026. Só totais agregados.</sub>
+
+## Linguagens
+
+`Kotlin 88%` `TypeScript 11%` `HTML 1%`
+
+<sub>Commits do período, pela linguagem principal de cada repositório.</sub>
+
+## Em destaque
+
+**[Tramitado](https://tramitado.vercel.app)**: site cívico que reúne dados do Legislativo brasileiro e explica os projetos em linguagem simples. Feito com Next.js, Supabase e GitHub Actions.
