@@ -28,20 +28,13 @@ Em outubro de 2026 foram 96 PRs abertos, o mês mais intenso do período.
 
 ### Em destaque
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://tramitado.vercel.app"><img src="./assets/tramitado.jpg" alt="Página inicial do Tramitado"></a>
-<br><br>
-<strong><a href="https://tramitado.vercel.app">Tramitado</a></strong>: site cívico que reúne dados do Legislativo brasileiro e explica os projetos em linguagem simples. Feito com Next.js, Supabase e GitHub Actions.
-</td>
-<td width="50%" valign="top">
-<a href="https://chelengo-lengo.vercel.app"><img src="./assets/chelengo.jpg" alt="Página inicial do Chelengo Lengo"></a>
-<br><br>
-<strong><a href="https://chelengo-lengo.vercel.app">Chelengo Lengo</a></strong>: karaokê com banda ao vivo. O público pede a música pelo celular, a letra aparece no telão e os músicos veem a cifra, tudo sincronizado. Feito com React e Supabase.
-</td>
-</tr>
-</table>
+<a href="https://tramitado.vercel.app"><img src="./assets/tramitado.jpg" width="600" alt="Página inicial do Tramitado"></a>
+
+**[Tramitado](https://tramitado.vercel.app)**: site cívico que reúne dados do Legislativo brasileiro e explica os projetos em linguagem simples. Feito com Next.js, Supabase e GitHub Actions.
+
+<a href="https://chelengo-lengo.vercel.app"><img src="./assets/chelengo.jpg" width="600" alt="Página inicial do Chelengo Lengo"></a>
+
+**[Chelengo Lengo](https://chelengo-lengo.vercel.app)**: karaokê com banda ao vivo. O público pede a música pelo celular, a letra aparece no telão e os músicos veem a cifra, tudo sincronizado. Feito com React e Supabase.
 
 ### Vamos conversar
 
